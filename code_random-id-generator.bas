@@ -1,4 +1,4 @@
-' NOTE: THIS IS ACCESS VBA, NOT VB
+' NOTE: THIS IS ACCESS VBA
 
 Option Compare Database
 Option Explicit
