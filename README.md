@@ -1,2 +1,2 @@
 # random-id-generator
-Generate random IDs
+Some library code to generate random IDs to assign to database records. Originally written for Access database. Collision-detection is necessary (so ether a table constraint or similar). The user can control the characters used, ID length, etc. Note that the ID space size (permutations) should be larger than the expected number of IDs generated; otherwise, collision resolution will cause generation to take "too much" time.
